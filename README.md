@@ -1,4 +1,4 @@
-# Don_Resume
+# Eriarie_Odiri_Don_Resume
 My Resume
 
 # [Project 1: Detailed Data Analysis and result-oriented storytelling of SuperStore sales Dataset.](https://github.com/OdiriDon/SuperStore-Sales-Analysis-And-Visualization-Using-Python)
