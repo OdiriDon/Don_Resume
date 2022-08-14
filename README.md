@@ -24,7 +24,7 @@ CustomerID : Nominal, a 5-digit integral number uniquely assigned to each custom
 Country : Nominal, the name of the country where each customer resides.
 
 
-# Project 3: Coronavirus Pandemic (COVID-19) Analysis](https://github.com/OdiriDon/SQLportfolioproject)
+# [Project 3: Coronavirus Pandemic (COVID-19) Analysis](https://github.com/OdiriDon/SQLportfolioproject)
 
 All data produced by Our World in Data https://ourworldindata.org/coronavirus
 
